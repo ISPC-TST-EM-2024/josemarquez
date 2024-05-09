@@ -6,9 +6,9 @@ ___
 ### Alumno: Jose Marquez
 ___
 
-### **Trabajo practico N°1: Simulacion eléctrica.**
+#### Objetivos:  
 
-
-#### ***Estructura para realizar los trabajos practicos***  
-
-#### En las carpetas se encuentran clasificado el material
+    • Comprender los fundamentos eléctricos básicos en circuitos.
+    • Aprender a diseñar y simular circuitos eléctricos.
+    • Familiarizarse con los componentes eléctricos y electrónicos, y su función en los circuitos.
+    • Analizar y comprender los resultados de las simulaciones.
