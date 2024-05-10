@@ -1,18 +1,20 @@
-![alt text](<../../Recursos/Visual/Logo EM.png>)
+![alt text](../Recursos/Banner-ispc.png)
 
-# MATERIA: ELECTRONICA MICROCONTROLADA
-## Profesor: Gonzalo Vera
-___
-### Alumno: Jose Marquez
-___
+# MATERIA PROYECTO INTEGRADOR
 
-### **Trabajo practico N°3: Circuitos lógicos Combinacionales (CLC).**
+#### Profesor: Gonzalo Vera.  
+-------------------------------------
+#### Alumno: José Márquez.
+-------------------------------------
+## Trabajo Práctico #3: Transductores binarios  
 
-      
-#### ***Busqueda de información de los temas indicados:***  
+#### Objetivos  
 
-1. Comprender los fundamentos de la lógica combinacional y su aplicación en el diseño de circuitos lógicos.  
+• Practicas con el framework de Arduino en VsCode.  
 
-2. Aprender a utilizar el álgebra de Boole para la simplificación de expresiones lógicas y la implementación de circuitos combinacionales.  
+• Primera aproximación a un entrenador básico.  
 
-3. Desarrollar habilidades para la identificación y análisis de problemas en circuitos lógicos combinacionales, y para la aplicación de soluciones efectivas utilizando las herramientas y técnicas adecuadas.  
+• Practica con sensores y actuadores digitales.  
+
+• Primera aproximación a un controlador.  
+

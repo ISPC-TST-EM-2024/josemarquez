@@ -1,34 +1,22 @@
-![alt text](</Recursos/Visual/Logo EM.png>)
+![alt text](../Recursos/Banner-ispc.png)
 
-# MATERIA: ELECTRONICA MICROCONTROLADA
-## Profesor: Gonzalo Vera
-___
-### Alumno: Jose Marquez
-___
+# MATERIA PROYECTO INTEGRADOR
 
-### **Trabajo practico N°2: Simulacion eléctronica.**
+#### Profesor: Gonzalo Vera.  
+#### Alumno: José Márquez.
 
-#### Objetivos
-#### • Comprender los fundamentos eléctricos y electrónicos básicos en circuitos.
-#### • Aprender a diseñar y simular circuitos eléctricos y electrónicos.
-#### • Familiarizarse con los componentes eléctricos y electrónicos, y su función en los circuitos.
-#### • Analizar y comprender los resultados de las simulaciones.
+## Trabajo Práctico #2: 
 
+### Ejercicios de Implementación:  
 
-### Fundamentos electrónicos – Semana 2
-     1. Diseñar y simular un circuito con un diodo rectificador y analizar su comportamiento.  
+• Controlador de Entradas Digitales: Crear un sketch en Arduino y un script en MicroPython que lea el estado de un botón y encienda un LED cuando el botón esté presionado.  
 
-    2. Diseñar y simular un circuito con un transistor bipolar como amplificador y analizar su comportamiento.  
+• Controlador de Entradas Analógicas: Desarrollar un programa que lea valores de un sensor de temperatura y los muestre en el Serial Monitor/consola.  
 
-    3. Diseñar y simular un circuito con un transistor bipolar como interruptor y analizar su comportamiento.  
+• Controlador de Salidas Digitales: Implementar un sistema que alterne el encendido de un conjunto de LEDs en intervalos regulares.  
 
-    4. Diseñar y simular un circuito con un amplificador operacional como sumador inversor y analizar su comportamiento.  
+• Controlador de Salidas Analógicas: Escribir un código que controle la intensidad de un LED usando PWM basado en la lectura de un potenciómetro.  
 
-    5. Diseñar y simular un circuito con un amplificador operacional como comparador y analizar su comportamiento.
+#### Simulación en Wokwi:  
 
-#### ***Practica con simulador Porteus:***  
-
-
-• Simulacion de los elementos estudiados.  
-
-• Documentacion de las pruebas.
+• Realizar simulaciones de cada uno de los controladores implementados para validar su funcionamiento antes de la carga en el hardware real.

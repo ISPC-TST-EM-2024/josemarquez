@@ -1,4 +1,4 @@
-![alt text](<../Recursos/Visual/Logo EM.png>)
+![alt text](</josemarquez/rcs/Visual/Banner-ispc.png>)
 
 # MATERIA: ELECTRONICA MICROCONTROLADA
 ## Profesor: Gonzalo Vera
